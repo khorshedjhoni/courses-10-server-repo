@@ -32,7 +32,7 @@
     {
         "id":"06",
         "name":"Go",
-        "details":"Go is a statically typed, compiled programming language designed at Google[11] by Robert Griesemer, Rob Pike, and Ken Thompson.[12] It is syntactically similar to C, but with memory safety, garbage collection, structural typing,[6] and CSP-style concurrency.[13] It is often referred to as Golang because of its former domain name, golang.org, but its proper name is Go.The lack of support for generic programming in initial versions of Go drew considerable criticism.[34] The designers expressed an openness to generic programming and noted that built-in functions were in fact type-generic, but are treated as special cases; Pike called this a weakness that might at some point be changed.[35] The Google team built at least one compiler for an experimental Go dialect with generics, but did not release it",
+        "details":"Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. It is often referred to as Golang because of its former domain name, golang.org, but its proper name is Go.The lack of support for generic programming in initial versions of Go drew considerable criticism.[34] The designers expressed an openness to generic programming and noted that built-in functions were in fact type-generic, but are treated as special cases; Pike called this a weakness that might at some point be changed.The Google team built at least one compiler for an experimental Go dialect with generics, but did not release it",
         "img":"https://miro.medium.com/max/1061/1*pn-IzUxHCtYMlBlLsG3DGA.png"
     }
 ]
