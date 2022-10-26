@@ -13,9 +13,9 @@ app.get('/course-data', (req,res)=>{
     res.send(courseData)
 });
 
-app.get('/course/:id', (req,res)=>{
+app.get('/courses/:id', (req,res)=>{
     const id = req.params.id;
-    const selectCourse = courseData.find(number=>number.id===id);
+    const selectCourse = courseData.find(number=> number.id === id);
     res.send(selectCourse)
 });
 
