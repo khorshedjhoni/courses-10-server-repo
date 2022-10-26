@@ -1,0 +1,39 @@
+[
+    {
+        "id":"01",
+        "name":"Javascript",
+        "details": "JavaScript is a high-level,often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation,and first-class functions. It is multi-paradigm, supporting event-driven, functional,and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates,regular expressions, standard data structures, and the Document Object Model (DOM).The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js",
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
+        
+    },
+    {
+        "id":"02",
+        "name":" Python",
+        "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.It is often described as a batteries included language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020",
+        "img":"https://contentstatic.techgig.com/photo/79386213/5-myths-around-python-programming-language-that-every-programmer-must-know.jpg?88712"
+    },
+    {
+        "id":"03",
+        "name":"C#",
+        "details":"C# (pronounced see sharp)[b] is a general-purpose, high-level multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. The C# programming language was designed by Anders Hejlsberg from Microsoft in 2000 and was later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO/IEC (ISO/IEC 23270) in 2003. Microsoft introduced C# along with .NET Framework and Visual Studio, both of which were closed-source. At the time, Microsoft had no open-source products. Four years later, in 2004, a free and open-source project called Mono began, providing a cross-platform compiler and runtime environment for the C# programming language. A decade later, Microsoft released Visual Studio Code (code editor), Roslyn (compiler), and the unified .NET platform (software framework), all of which support C# and are free, open-source, and cross-platform. Mono also joined Microsoft but was not merged into .NET.",
+        "img":"https://www.kindpng.com/picc/m/657-6574280_c-c-sharp-logo-png-transparent-png.png"
+    },
+    {
+        "id":"04",
+        "name":"C",
+        "details":"C (pronounced like the letter c) is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly[6] for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.A successor to the programming language B, C was originally developed at Bell Labs by Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system.[7] During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages,[8][9] with C compilers available for almost[citation needed] all modern computer architectures and operating systems. C has been standardized by ANSI since 1989 (ANSI C) and by the International Organization for Standardization (ISO). C is an imperative procedural language supporting structured programming, lexical variable scope,and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support. ",
+        "img":"https://www.pragimtech.com/wp-content/uploads/2020/03/c-tutorial-for-beginners.png"
+    },
+    {
+        "id":"05",
+        "name":"",
+        "details":"",
+        "img":""
+    },
+    {
+        "id":"02",
+        "name":"",
+        "details":"",
+        "img":""
+    }
+]
